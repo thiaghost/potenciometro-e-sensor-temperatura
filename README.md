@@ -1,1 +1,1 @@
-# Voltímetro-e-sensor-temperatura
+# potencimetro-e-sensor-temperatura
