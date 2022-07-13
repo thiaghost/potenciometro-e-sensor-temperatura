@@ -65,26 +65,15 @@ char bin2char(uint8_t x)
   return x + 'A' - 10;
 }
 
-void print_names(){
-	texto[0] = 'M';
-	texto[1] = 'a';
-	texto[2] = 'u';
-	texto[3] = 'r';
-	texto[4] = 'i';
-	texto[5] = 'c';
-	texto[6] = 'i';
-	texto[7] = 'o';
-	
-	texto[8] = ' ';
-	
-	texto[9] = 'T';
-	texto[10] = 'h';
-	texto[11] = 'i';
-	texto[12] = 'a';
-	texto[13] = 'g';
-	texto[14] = 'o';
-	texto[15] = ':';
-	texto[16] = 0;
+void print_names(){	
+	texto[1] = 'T';
+	texto[2] = 'h';
+	texto[3] = 'i';
+	texto[4] = 'a';
+	texto[5] = 'g';
+	texto[6] = 'o';
+	texto[7] = ':';
+	texto[8] = 0;
 }
 
 
